@@ -11,5 +11,10 @@
 
 ## 
 
-* [本源量子](https://qcloud.originqc.com.cn/zh) 
+* [本源量子](https://qcloud.originqc.com.cn/zh)
+
+
+## Paper List 
+
+* [Paper_List](https://github.com/Event-AHU/QuantumComputing/blob/main/Paper_List.md)
 
