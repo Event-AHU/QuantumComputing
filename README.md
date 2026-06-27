@@ -12,6 +12,7 @@
 ## 
 
 * [本源量子](https://qcloud.originqc.com.cn/zh)
+* [[TorchQuantum Examples](https://torchquantum.readthedocs.io/en/latest/examples/index.html)]
 
 
 ## Paper List 
