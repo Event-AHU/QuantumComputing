@@ -13,6 +13,7 @@
 
 * [本源量子](https://qcloud.originqc.com.cn/zh)
 * [[TorchQuantum Examples](https://torchquantum.readthedocs.io/en/latest/examples/index.html)]
+* [[MIT-HAN-LAB-GitHub](https://github.com/mit-han-lab/torchquantum)] A PyTorch-based framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum computers. 
 
 
 ## Paper List 
