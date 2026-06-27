@@ -1,6 +1,6 @@
 # Quantum Computing 
 <p align="center">
-  <img src="https://github.com/Event-AHU/QuantumComputing/blob/main/figures/quantumcomputingdemo.gif" width="500">
+  <img src="https://github.com/Event-AHU/QuantumComputing/blob/main/figures/entanglement-quantum-entanglement.gif" width="300">
 </p>
 
 
